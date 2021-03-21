@@ -1,3 +1,5 @@
-iris_json.json
-iris.data
+.ipynb_checkpoints/
+__pycache__/
 essaie1.ipynb
+iris.data
+iris_json.json
