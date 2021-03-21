@@ -7,12 +7,12 @@ Le projet est structuré comme suite :
 * Fichier __Algorithmes.py__
 * FIchier __Projet-Kmeans.ipynb__
 
-Le fichier __utilsFunction.py__ contient les fonctions suivantes :
+Le fichier __utilsFunction.py__: contient les fonctions suivantes :
 
-*moyenne,
-*variance,
-* écart type,
-*coefficient de corrélation
+* moyenne
+* variance
+* écart type
+* coefficient de corrélation
 
-Le fichier __Algorithmes.py__ contient une class Kmeans
+Le fichier __Algorithmes.py__: contient une class Kmeans
   
