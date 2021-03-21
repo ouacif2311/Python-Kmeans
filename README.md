@@ -1,5 +1,4 @@
 # Kmeans-Python
-# Python-Kmeans
-# Python-Kmeans
-# Python-Kmeans
-# Python-Kmeans
+
+Le projet se compose des fichiers suivants :
+* Fichier utilsFunction.py
