@@ -1,4 +1,6 @@
 # Kmeans-Python
 
 Le projet se compose des fichiers suivants :
-* Fichier utilsFunction.py
+* __Fichier utilsFunction.py__
+* __Fichier Algorithmes.py__
+* __FIchier Projet-Kmeans.ipynb__
